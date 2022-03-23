@@ -8,4 +8,4 @@ Cisco Talos
 * Monitor, https://archive.org/download/vxheavens-2010-05-18, https://github.com/Sammight/mirror-vxheaven.org
 * Crack, operating system: AI or ES
 * Mod, https://blackarch.org/index.html
-* Sup, 
+* Sup, AL
